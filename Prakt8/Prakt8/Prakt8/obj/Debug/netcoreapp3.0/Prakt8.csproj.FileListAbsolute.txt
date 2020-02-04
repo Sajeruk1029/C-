@@ -1,0 +1,11 @@
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\bin\Debug\netcoreapp3.0\Prakt8.exe
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\bin\Debug\netcoreapp3.0\Prakt8.deps.json
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\bin\Debug\netcoreapp3.0\Prakt8.runtimeconfig.json
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\bin\Debug\netcoreapp3.0\Prakt8.runtimeconfig.dev.json
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\bin\Debug\netcoreapp3.0\Prakt8.dll
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\bin\Debug\netcoreapp3.0\Prakt8.pdb
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\obj\Debug\netcoreapp3.0\Prakt8.csprojAssemblyReference.cache
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\obj\Debug\netcoreapp3.0\Prakt8.AssemblyInfoInputs.cache
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\obj\Debug\netcoreapp3.0\Prakt8.AssemblyInfo.cs
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\obj\Debug\netcoreapp3.0\Prakt8.dll
+C:\Users\Sajeruk\source\repos\Prakt8\Prakt8\Prakt8\obj\Debug\netcoreapp3.0\Prakt8.pdb

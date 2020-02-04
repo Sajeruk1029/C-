@@ -1,0 +1,10 @@
+C:\Users\Sajeruk\source\repos\Prakt3\Prakt3\Prakt3\bin\Debug\netcoreapp3.0\Prakt3.exe
+C:\Users\Sajeruk\source\repos\Prakt3\Prakt3\Prakt3\bin\Debug\netcoreapp3.0\Prakt3.deps.json
+C:\Users\Sajeruk\source\repos\Prakt3\Prakt3\Prakt3\bin\Debug\netcoreapp3.0\Prakt3.runtimeconfig.json
+C:\Users\Sajeruk\source\repos\Prakt3\Prakt3\Prakt3\bin\Debug\netcoreapp3.0\Prakt3.runtimeconfig.dev.json
+C:\Users\Sajeruk\source\repos\Prakt3\Prakt3\Prakt3\bin\Debug\netcoreapp3.0\Prakt3.dll
+C:\Users\Sajeruk\source\repos\Prakt3\Prakt3\Prakt3\bin\Debug\netcoreapp3.0\Prakt3.pdb
+C:\Users\Sajeruk\source\repos\Prakt3\Prakt3\Prakt3\obj\Debug\netcoreapp3.0\Prakt3.AssemblyInfoInputs.cache
+C:\Users\Sajeruk\source\repos\Prakt3\Prakt3\Prakt3\obj\Debug\netcoreapp3.0\Prakt3.AssemblyInfo.cs
+C:\Users\Sajeruk\source\repos\Prakt3\Prakt3\Prakt3\obj\Debug\netcoreapp3.0\Prakt3.dll
+C:\Users\Sajeruk\source\repos\Prakt3\Prakt3\Prakt3\obj\Debug\netcoreapp3.0\Prakt3.pdb

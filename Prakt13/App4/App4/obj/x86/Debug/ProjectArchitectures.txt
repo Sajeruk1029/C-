@@ -1,1 +1,1 @@
-C:\Users\Sajeruk\source\repos\App4\App4\App4.csproj;x86
+C:\Users\Sajeruk\source\repos\Prakt13\App4\App4\App4.csproj;x86

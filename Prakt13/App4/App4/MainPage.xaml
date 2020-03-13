@@ -16,14 +16,12 @@
         <TextBox x:Name="login" HorizontalAlignment="Left" Margin="300,282,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" AutomationProperties.HelpText="Логин" PlaceholderText="Логин" MaxLength="20" TextChanging="login_TextChanging"/>
         <PasswordBox x:Name="password" HorizontalAlignment="Left" Margin="300,339,0,0" VerticalAlignment="Top" Width="194" MaxLength="20" PlaceholderText="Пароль" PasswordChanging="password_PasswordChanging"/>
         <CalendarDatePicker x:Name="Data" Margin="300,394,0,0" VerticalAlignment="Top" Width="194" PlaceholderText="Дата рождения"/>
-        <ComboBox x:Name="domen" Margin="517,228,0,0" Width="120">
-            <x:String>@mail.ru</x:String>
-            <x:String>@gmail.ru</x:String>
-        </ComboBox>
         <Button x:Name="rec" Content="Запись" Margin="300,505,0,0" VerticalAlignment="Top" Width="194" Click="rec_Click"/>
         <Button x:Name="Next" Content="Следующая" Margin="300,560,0,0" VerticalAlignment="Top" Width="194" Click="Next_Click"/>
         <RadioButton x:Name="Man" Content="Мужчина" Margin="277,468,0,0" VerticalAlignment="Top"/>
         <RadioButton x:Name="Woman" Content="Женщина" Margin="425,468,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="sobaka" HorizontalAlignment="Left" Margin="494,225,0,0" Text="@" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" FontWeight="Bold" FontSize="20"/>
+        <TextBox x:Name="domen" HorizontalAlignment="Left" Margin="513,225,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" AutomationProperties.HelpText="Емаил" PlaceholderText="Домен" MaxLength="20" TextChanging="email_TextChanging"/>
 
     </Grid>
 </Page>

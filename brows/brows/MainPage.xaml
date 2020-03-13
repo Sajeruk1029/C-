@@ -1,0 +1,35 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:brows"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="using:Microisoft.UI.Controls"
+    
+    xmlns:Custom="using:Microsoft.UI.Xaml.Controls"
+    x:Class="brows.MainPage"
+    mc:Ignorable="d"
+    
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid Margin="0,104,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="187*"/>
+                <ColumnDefinition Width="188*"/>
+            </Grid.ColumnDefinitions>
+            <WebView Grid.ColumnSpan="2" Margin="0,0,10,0"/>
+        </Grid>
+        <Grid Margin="0,0,0,901">
+            <Button Content="Button" Margin="10,10,0,0" VerticalAlignment="Top" Height="34" Width="94"/>
+            <Button Content="Button" Margin="126,10,0,0" VerticalAlignment="Top" Height="34" Width="94"/>
+            <Button Content="Button" Margin="242,10,0,0" VerticalAlignment="Top" Height="34" Width="94"/>
+            <Button Content="Button" Margin="362,10,0,0" VerticalAlignment="Top" Height="34" Width="94"/>
+            <TextBox HorizontalAlignment="Left" Margin="0,50,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="49" Width="1490"/>
+            <Custom:DropDownButton Content="DropDownButton" HorizontalAlignment="Left" Margin="1312,10,0,0" VerticalAlignment="Top" Width="186"/>
+        </Grid>
+
+    </Grid>
+
+
+</Page>

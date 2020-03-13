@@ -8157,11 +8157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sajeruk\\source\\repos\\Prakt13\\App4\\App4\\App4.csproj",
+      "projectUniqueName": "C:\\Users\\Sajeruk\\Downloads\\CSharp-master\\CSharp-master\\Prakt13\\App4\\App4\\App4.csproj",
       "projectName": "App4",
-      "projectPath": "C:\\Users\\Sajeruk\\source\\repos\\Prakt13\\App4\\App4\\App4.csproj",
+      "projectPath": "C:\\Users\\Sajeruk\\Downloads\\CSharp-master\\CSharp-master\\Prakt13\\App4\\App4\\App4.csproj",
       "packagesPath": "C:\\Users\\Sajeruk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sajeruk\\source\\repos\\Prakt13\\App4\\App4\\obj\\",
+      "outputPath": "C:\\Users\\Sajeruk\\Downloads\\CSharp-master\\CSharp-master\\Prakt13\\App4\\App4\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
